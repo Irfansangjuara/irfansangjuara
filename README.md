@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://res.cloudinary.com/dmmzjgjt5/image/upload/f_auto,q_auto,w_300/v1769181335/Foto_Profil_2_dn1nwe.png" alt="Irfan Sangjuara" width="300" style="border-radius: 50%;" />
+</div>
+
 # 💫 About Me:
 UIUX | Frontend Developer  | Digital Marketing Enthusiast | Website Builder | Photographer | Creator | AI Enthusiast | | Digital Marketing in @mardiguwp
 
