@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dmmzjgjt5/image/upload/f_auto,q_auto,w_300/v1769181335/Foto_Profil_2_dn1nwe.png" alt="Irfan Sangjuara" width="300" style="border-radius: 50%;" />
+  <img src="https://pareto.linkbio.web.id/profile-ig-irfan.webp" alt="Irfan Sangjuara" width="300" style="border-radius: 50%;" />
 </div>
 
 # 💫 About Me:
 UIUX | Frontend Developer  | Digital Marketing Enthusiast | Website Builder | Photographer | Creator | AI Enthusiast | | Digital Marketing in @mardiguwp
 
+<div align="center">
+  <img src="https://pareto.linkbio.web.id/profile-cv-irfan.webp" alt="CV & Experience - Irfan Sangjuara" width="600" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Irfansangjuara_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Irfansangjuara) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Irfansangjuara) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Irfansangjuara) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Irfansangjuara) 
@@ -14,13 +17,15 @@ UIUX | Frontend Developer  | Digital Marketing Enthusiast | Website Builder | Ph
 
 # 🎓 Certifications:
 <div align="center">
-  <img src="https://pareto.linkbio.web.id/badge-google-ads-search.png" alt="Google Ads Search Certified" width="200" />
-  <br/>
-  <img src="https://pareto.linkbio.web.id/badge-google-ads-video.png" alt="Google Ads Video Certified" width="200" />
-  <br/>
-  <img src="https://pareto.linkbio.web.id/badge-google-analytics.png" alt="Google Analytics Certified" width="200" />
-  <br/>
-  <img src="https://pareto.linkbio.web.id/badge-google-ads-display.png" alt="Google Ads Display Certified" width="200" />
+  <img src="https://pareto.linkbio.web.id/cert-google-ads-search.jpg" alt="Google Ads Search Certified" width="400" />
+  <br/><br/>
+  <img src="https://pareto.linkbio.web.id/cert-google-ads-video.jpg" alt="Google Ads Video Certified" width="400" />
+  <br/><br/>
+  <img src="https://pareto.linkbio.web.id/cert-google-analytics.jpg" alt="Google Analytics Certified" width="400" />
+  <br/><br/>
+  <img src="https://pareto.linkbio.web.id/cert-google-gemini.png" alt="Google Gemini AI Certified" width="400" />
+  <br/><br/>
+  <img src="https://pareto.linkbio.web.id/cert-website-bootcamp.png" alt="Website Development Bootcamp" width="400" />
 </div>
 
 # 📊 GitHub Stats:
