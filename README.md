@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://pareto.linkbio.web.id/profile-ig-irfan.webp" alt="Irfan Sangjuara" width="300" style="border-radius: 50%;" />
+  <img src="https://pareto.linkbio.web.id/profile-ig-irfan.webp" alt="Irfan Sangjuara Profile" width="300" loading="eager" decoding="async" />
 </div>
 
 # 💫 About Me:
 UIUX | Frontend Developer  | Digital Marketing Enthusiast | Website Builder | Photographer | Creator | AI Enthusiast | | Digital Marketing in @mardiguwp
 
 <div align="center">
-  <img src="https://pareto.linkbio.web.id/profile-cv-irfan.webp" alt="CV & Experience - Irfan Sangjuara" width="600" />
+  <img src="https://pareto.linkbio.web.id/profile-cv-irfan.webp" alt="CV & Experience - Irfan Sangjuara" width="600" loading="lazy" decoding="async" />
 </div>
 
 ## 🌐 Socials:
@@ -20,42 +20,42 @@ UIUX | Frontend Developer  | Digital Marketing Enthusiast | Website Builder | Ph
 <div align="center">
 
 ### 🤝 Private Konsultasi Offline 1 on 1
-<img src="https://pareto.linkbio.web.id/portfolio-konsultasi-offline.jpg" alt="Private Konsultasi Offline 1 on 1" width="500" />
+<img src="https://pareto.linkbio.web.id/portfolio-konsultasi-offline.jpg" alt="Private Konsultasi Offline 1 on 1" width="500" loading="lazy" decoding="async" />
 
 ### 💻 Private Konsultasi Online 1 on 1
-<img src="https://pareto.linkbio.web.id/portfolio-konsultasi-online.jpg" alt="Private Konsultasi Online 1 on 1" width="500" />
+<img src="https://pareto.linkbio.web.id/portfolio-konsultasi-online.jpg" alt="Private Konsultasi Online 1 on 1" width="500" loading="lazy" decoding="async" />
 
 ### 📱 Digital Marketing Campaign
-<img src="https://pareto.linkbio.web.id/portfolio-digital-marketing-generated.webp" alt="Digital Marketing Campaign" width="500" />
+<img src="https://pareto.linkbio.web.id/portfolio-digital-marketing-generated.webp" alt="Digital Marketing Campaign" width="500" loading="lazy" decoding="async" />
 
 ### 🌐 Web Development Projects
-<img src="https://pareto.linkbio.web.id/portfolio-web-dev-generated.webp" alt="Web Development Projects" width="500" />
+<img src="https://pareto.linkbio.web.id/portfolio-web-dev-generated.webp" alt="Web Development Projects" width="500" loading="lazy" decoding="async" />
 
 ### 🎨 Content Creation
-<img src="https://pareto.linkbio.web.id/portfolio-content.jpg" alt="Content Creation" width="500" />
+<img src="https://pareto.linkbio.web.id/portfolio-content.jpg" alt="Content Creation" width="500" loading="lazy" decoding="async" />
 
 ### 📸 Photography
-<img src="https://pareto.linkbio.web.id/portfolio-photography.jpg" alt="Photography" width="500" />
+<img src="https://pareto.linkbio.web.id/portfolio-photography.jpg" alt="Photography" width="500" loading="lazy" decoding="async" />
 
 ### 🎬 Jasa Animasi Logo 3D (Branding)
-<img src="https://pareto.linkbio.web.id/portfolio-3d-animation.jpg" alt="Jasa Animasi Logo 3D" width="500" />
+<img src="https://pareto.linkbio.web.id/portfolio-3d-animation.jpg" alt="Jasa Animasi Logo 3D" width="500" loading="lazy" decoding="async" />
 
 ### 🛠️ Jasa Custom App (Web Base)
-<img src="https://pareto.linkbio.web.id/portfolio-custom-app.jpg" alt="Jasa Custom App" width="500" />
+<img src="https://pareto.linkbio.web.id/portfolio-custom-app.jpg" alt="Jasa Custom App" width="500" loading="lazy" decoding="async" />
 
 </div>
 
 # 🎓 Certifications:
 <div align="center">
-  <img src="https://pareto.linkbio.web.id/cert-google-ads-search.jpg" alt="Google Ads Search Certified" width="400" />
+  <img src="https://pareto.linkbio.web.id/cert-google-ads-search.jpg" alt="Google Ads Search Certified" width="400" loading="lazy" decoding="async" />
   <br/><br/>
-  <img src="https://pareto.linkbio.web.id/cert-google-ads-video.jpg" alt="Google Ads Video Certified" width="400" />
+  <img src="https://pareto.linkbio.web.id/cert-google-ads-video.jpg" alt="Google Ads Video Certified" width="400" loading="lazy" decoding="async" />
   <br/><br/>
-  <img src="https://pareto.linkbio.web.id/cert-google-analytics.jpg" alt="Google Analytics Certified" width="400" />
+  <img src="https://pareto.linkbio.web.id/cert-google-analytics.jpg" alt="Google Analytics Certified" width="400" loading="lazy" decoding="async" />
   <br/><br/>
-  <img src="https://pareto.linkbio.web.id/cert-google-gemini.png" alt="Google Gemini AI Certified" width="400" />
+  <img src="https://pareto.linkbio.web.id/cert-google-gemini.png" alt="Google Gemini AI Certified" width="400" loading="lazy" decoding="async" />
   <br/><br/>
-  <img src="https://pareto.linkbio.web.id/cert-website-bootcamp.png" alt="Website Development Bootcamp" width="400" />
+  <img src="https://pareto.linkbio.web.id/cert-website-bootcamp.png" alt="Website Development Bootcamp" width="400" loading="lazy" decoding="async" />
 </div>
 
 # 📊 GitHub Stats:
